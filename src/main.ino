@@ -1,3 +1,13 @@
+ *  Preferences--> Aditional boards Manager URLs : 
+ *  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+ *  
+ *  Download Board ESP32 (3.2.0) : https://github.com/espressif/arduino-esp32
+ *
+ *  Download the libraries 
+ *  UniversalTelegramBot Library (1.3.0):  https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+ *  AceButton Library (1.10.1): hhttps://github.com/bxparks/AceButton
+ **********************************************************************************/
+
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
